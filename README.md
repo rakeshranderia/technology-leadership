@@ -4,7 +4,7 @@ This repository is a collection of practical case studies and perspectives drawn
 
 My career has largely been spent in organisations where the technology leader needs to operate at both levels:
 
-**setting direction with executives and the Board, while still remaining close enough to the technology to understand how it is actually delivered.**
+**Setting direction with executives and the Board, while still remaining close enough to the technology to understand how it is actually delivered.**
 
 That has shaped how I approach technology leadership.
 
@@ -47,22 +47,29 @@ Designing, implementing and maintaining environments against defined security re
 
 ## Leadership Case Studies
 
-This repository will include examples covering:
+### [Governed AI Adoption](./ai/governed-ai-adoption.md)
 
-- Governed AI adoption
-- Cybersecurity maturity and ISO 27001
-- Digital transformation
-- Technology business partnering
-- IT/OT governance
-- Secure environment delivery
-- Operational resilience
-- Vendor and technology optimisation
+Enabling practical AI adoption while managing privacy, security, data and Shadow AI risk.
 
-The intention is not to publish confidential implementation detail.
+### [Building Cybersecurity Maturity](./cybersecurity/security-maturity.md)
 
-The focus is on:
+Using ISO 27001, Essential Eight, SOC 2 and broader security practices as part of an ongoing security maturation program.
 
-**Context → Challenge → Approach → Outcome → Lessons**
+### [Leading a Multi-Year Digital Transformation](./transformation/digital-transformation.md)
+
+Building the technology capability, platforms and operating model required to support organisational growth.
+
+### [From IT-Led Priorities to Business-Led Technology](./business-partnering/business-led-technology.md)
+
+Changing the relationship between technology and the business through customer thinking, regular engagement and shared prioritisation.
+
+### [IT/OT: Managing Technology Where Downtime Has Real-World Consequences](./itot/itot-operations.md)
+
+Managing availability, security, networking and technology risk in production environments where technology decisions can have operational and safety consequences.
+
+### [Secure Environments: From Requirement to Ongoing Assurance](./secure-environments/secure-environment-lifecycle.md)
+
+Taking defined security requirements through design, implementation, accreditation and ongoing assurance.
 
 ---
 
@@ -85,4 +92,8 @@ I do not see technology leadership as a choice between being strategic or techni
 
 In smaller and mid-sized organisations, the most effective technology leaders often need to do both:
 
-**understand the detail well enough to make good decisions, while keeping the focus on business outcomes, risk and people.**
+**Understand the detail well enough to make good decisions, while keeping the focus on business outcomes, risk and people.**
+
+Technology changes quickly, but the fundamentals of good technology leadership are relatively consistent:
+
+**Understand the business. Make priorities visible. Manage risk. Keep things practical. Deliver outcomes.**
