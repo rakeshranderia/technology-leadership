@@ -6,6 +6,14 @@ A professional-services environment of approximately 120 staff was exploring pra
 
 The objective was not simply to introduce an AI product. It was to create a governed way to test where AI could add value, protect organisational information, understand adoption, and make an evidence-based decision about broader scale.
 
+The challenge was not whether employees would use AI, but how to make that use productive, secure and manageable.
+
+Different AI tools were appearing rapidly and employees could access many of them independently. Simply blocking them was unlikely to be sustainable, while unrestricted adoption introduced legitimate concerns around privacy, sensitive information, data loss, intellectual property, security, quality of output and Shadow AI.
+
+The goal was therefore not to ask whether AI should be allowed in general, but:
+
+**Under what conditions should a particular AI use case be allowed?**
+
 ## 1. Governance
 
 The first step was to establish practical guardrails around AI use rather than rely on either unrestricted experimentation or a blanket prohibition.
@@ -20,7 +28,29 @@ Controls covered:
 - Shadow AI risk;
 - human review and accountability.
 
+A useful decision model was:
+
+**Use Case + Data + Risk + Platform**
+
+### Use Case
+
+What is the employee trying to achieve?
+
+### Data
+
+What information will the AI system receive or process?
+
+### Risk
+
+What could happen if the information, model or output was incorrect, exposed or misused?
+
+### Platform
+
+What controls and protections are available within the proposed AI service?
+
 The principle was simple: start with the organisation's existing information-handling rules, then assess whether that information was appropriate for the proposed AI platform and use case.
+
+The default answer did not need to be "no". The objective was to create a consistent way to reach an informed yes, no or yes-with-controls decision.
 
 ## 2. Pilot
 
@@ -87,7 +117,3 @@ The core lesson was that AI adoption should be treated as an operating-model pro
 The approach can be summarised as:
 
 **Governance → Pilot → Adoption → Measurement → Scale**
-
----
-
-*Rakesh Randeria — practical technology leadership, AI governance and adoption measurement.*

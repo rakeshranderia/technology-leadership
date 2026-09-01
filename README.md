@@ -1,99 +1,103 @@
 # Technology Leadership
 
-This repository is a collection of practical case studies and perspectives drawn from leading technology, cybersecurity, transformation, AI governance and IT operations.
+This repository contains practical case studies and perspectives drawn from technology leadership across strategy, transformation, cybersecurity, AI governance, IT operations and operational technology.
 
 My career has largely been spent in organisations where the technology leader needs to operate at both levels:
 
-**Setting direction with executives and the Board, while still remaining close enough to the technology to understand how it is actually delivered.**
+**Setting direction with executives and the Board while remaining close enough to delivery to understand how technology actually works.**
 
 That has shaped how I approach technology leadership.
 
-I tend to focus on four questions:
+I tend to start with four questions:
 
 - What business problem are we trying to solve?
 - What is the simplest practical technology approach?
 - What risk are we accepting or reducing?
 - How will we know whether it worked?
 
----
-
-## Areas I Work Across
+## Leadership Areas
 
 ### Technology Strategy & Transformation
 
-Turning business strategy into practical technology roadmaps, investment priorities and measurable outcomes.
+Turning business priorities into practical technology roadmaps, investment decisions and measurable outcomes.
 
 ### Cybersecurity & Risk
 
-Building security capability that improves resilience and assurance without making the organisation unnecessarily difficult to operate.
+Building security capability that improves resilience and assurance while remaining proportionate to organisational risk.
 
 ### AI Governance & Enablement
 
-Creating a consistent way to assess and adopt AI so that the default answer does not have to be "no".
+Creating practical governance that allows AI adoption while managing privacy, information protection, platform and responsible-use risk.
 
 ### IT Operations
 
-Building reliable, measurable and resilient technology services that support day-to-day business operations.
+Building reliable, measurable and resilient technology services that support normal business operations and future change.
 
 ### IT/OT
 
-Managing the technology supporting operational environments, including SCADA and PLC infrastructure, networking, segmentation, patching, security and vendor management.
+Managing technology supporting operational and manufacturing environments, including networking, SCADA and PLC dependencies, security, availability and vendor coordination.
 
 ### Secure Environments
 
-Designing, implementing and maintaining environments against defined security requirements, including accreditation and ongoing assurance.
-
----
+Translating defined security requirements into practical technology controls, operating processes and ongoing assurance.
 
 ## Leadership Case Studies
 
-### [Governed AI Adoption](./ai/governed-ai-adoption.md)
+### Governed AI Adoption
 
-Enabling practical AI adoption while managing privacy, security, data and Shadow AI risk.
+Practical AI adoption balancing business use cases, privacy, data protection, platform risk, user enablement and measurement.
 
-### [Building Cybersecurity Maturity](./cybersecurity/security-maturity.md)
+[Read: AI Adoption Case Study](case-studies/ai-adoption-case-study.md)
 
-Using ISO 27001, Essential Eight, SOC 2 and broader security practices as part of an ongoing security maturation program.
+### Building Cybersecurity Maturity
 
-### [Leading a Multi-Year Digital Transformation](./transformation/digital-transformation.md)
+Using ISO 27001, Essential Eight, SOC 2 and broader security practices as part of an ongoing security-maturity program.
+
+[Read: Building Cybersecurity Maturity](cybersecurity/security-maturity.md)
+
+### Leading a Multi-Year Digital Transformation
 
 Building the technology capability, platforms and operating model required to support organisational growth.
 
-### [From IT-Led Priorities to Business-Led Technology](./business-partnering/business-led-technology.md)
+[Read: Leading a Multi-Year Digital Transformation](transformation/digital-transformation.md)
 
-Changing the relationship between technology and the business through customer thinking, regular engagement and shared prioritisation.
+### From IT-Led Priorities to Business-Led Technology
 
-### [IT/OT: Managing Technology Where Downtime Has Real-World Consequences](./itot/itot-operations.md)
+Changing the relationship between technology and the business through regular engagement, customer thinking and shared prioritisation.
 
-Managing availability, security, networking and technology risk in production environments where technology decisions can have operational and safety consequences.
+[Read: From IT-Led Priorities to Business-Led Technology](business-partnering/business-led-technology.md)
 
-### [Secure Environments: From Requirement to Ongoing Assurance](./secure-environments/secure-environment-lifecycle.md)
+### IT/OT — Technology Where Downtime Has Real-World Consequences
 
-Taking defined security requirements through design, implementation, accreditation and ongoing assurance.
+Managing availability, networking, security and technology risk in operational environments where downtime can affect production and safety.
 
----
+[Read: IT/OT Operations](itot/itot-operations.md)
+
+### Secure Environments — From Requirement to Assurance
+
+Applying defined security requirements through design, implementation, operating controls and ongoing assurance.
+
+[Read: Secure Environment Lifecycle](secure-environments/secure-environment-lifecycle.md)
 
 ## How This Connects to My Other Work
 
-My other GitHub repositories provide more detailed frameworks and technical examples:
+Other repositories contain the supporting frameworks, operating models and technical examples.
 
 - [Cybersecurity Framework](https://github.com/rakeshranderia/cybersecurity-framework)
 - [AI Governance Framework](https://github.com/rakeshranderia/ai-governance-framework)
 - [IT Operations Playbook](https://github.com/rakeshranderia/it-operations-playbook)
 - [Technology Automation](https://github.com/rakeshranderia/technology-automation)
 
-This repository is the practical layer connecting those frameworks to real technology leadership experience.
-
----
+This repository is the evidence layer connecting those frameworks to practical technology-leadership experience.
 
 ## Perspective
 
-I do not see technology leadership as a choice between being strategic or technical.
+I don't see technology leadership as a choice between being strategic or technical.
 
-In smaller and mid-sized organisations, the most effective technology leaders often need to do both:
+In smaller and mid-sized organisations, effective technology leaders often need to do both:
 
-**Understand the detail well enough to make good decisions, while keeping the focus on business outcomes, risk and people.**
+**Understand the detail well enough to make good decisions while keeping the focus on business outcomes, risk and people.**
 
-Technology changes quickly, but the fundamentals of good technology leadership are relatively consistent:
+Technology changes quickly, but the fundamentals remain relatively consistent:
 
-**Understand the business. Make priorities visible. Manage risk. Keep things practical. Deliver outcomes.**
+**Understand the business → Make priorities visible → Manage risk → Keep things practical → Deliver outcomes**
