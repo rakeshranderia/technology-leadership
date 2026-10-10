@@ -8,6 +8,11 @@ My career has largely been spent in organisations where the technology leader ne
 
 That has shaped how I approach technology leadership.
 
+> **Status:** Maintained reference library  
+> **Last reviewed:** October 2026
+
+---
+
 I tend to start with four questions:
 
 - What business problem are we trying to solve?
@@ -51,7 +56,7 @@ Practical AI adoption balancing business use cases, privacy, data protection, pl
 
 ### Building Cybersecurity Maturity
 
-Using ISO 27001, Essential Eight, SOC 2 and broader security practices as part of an ongoing security-maturity program.
+Connecting cybersecurity governance, technical controls, resilience, assurance and executive visibility.
 
 [Read: Building Cybersecurity Maturity](cybersecurity/security-maturity.md)
 
@@ -89,6 +94,14 @@ Other repositories contain the supporting frameworks, operating models and techn
 - [Technology Automation](https://github.com/rakeshranderia/technology-automation)
 
 This repository is the evidence layer connecting those frameworks to practical technology-leadership experience.
+
+## Case Study Principle
+
+The case studies focus on transferable methods, decisions and lessons rather than employer-specific detail.
+
+The guiding principle is:
+
+> **Preserve the capability; remove the fingerprint.**
 
 ## Perspective
 
