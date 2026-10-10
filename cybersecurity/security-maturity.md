@@ -1,177 +1,115 @@
-# Building Cybersecurity Maturity
+# Building Cybersecurity Maturity & Assurance
 
 ## Context
 
-When I took responsibility for the technology and information security function, cybersecurity was already important to the organisation.
+A client-facing organisation operated in an environment where customers and other stakeholders increasingly expected demonstrable evidence of cybersecurity maturity, resilience and effective control operation.
 
-The opportunity was to move beyond individual security controls and develop a more structured security capability that connected technology, risk, compliance and client expectations.
+Security therefore needed to support more than internal risk reduction. It also needed to provide confidence to leadership, customers, auditors and other external parties.
 
-A major milestone was the organisation's ISO 27001 recertification and transition from the 2013 standard to ISO 27001:2022.
+## Challenge
 
-Rather than treating this simply as an audit exercise, I used it as an opportunity to review the broader security environment and establish a longer-term maturation program.
+The security program needed to satisfy formal assurance requirements while also improving practical operational maturity.
 
----
+Certification alone was not enough.
 
-## The Challenge
+Controls needed to:
 
-Security maturity is rarely solved by implementing another security product.
+- operate effectively;
+- remain sustainable for the internal team;
+- improve resilience;
+- produce usable evidence;
+- support customer and audit assurance;
+- remain proportionate to organisational risk.
 
-The environment needed to balance several competing requirements:
+The challenge was bringing governance, technical security, resilience and assurance together as one operating capability.
 
-- Protect sensitive organisational and client information
-- Maintain ISO 27001 certification
-- Improve alignment with Essential Eight
-- Develop SOC 2 readiness
-- Consider NIST and regulatory expectations
-- Improve resilience
-- Support client security requirements
-- Maintain a practical working environment for staff
+## Approach
 
-The challenge was bringing these activities together into a coherent security program.
-
----
-
-## My Approach
-
-I approached security maturity across several layers:
-
-**Governance → Identity → Endpoint → Network → Data → Detection → Response → Recovery**
-
-This provided a way to look beyond individual products and understand where controls were strong, where gaps existed and where investment would provide the greatest value.
-
----
-
-## Governance
-
-The ISO 27001:2022 transition provided a strong governance foundation.
+A structured security-improvement program was developed across governance, risk management, technical controls, resilience, third-party risk and assurance.
 
 Work included:
 
-- ISMS review and improvement
-- Risk management
-- Policy review
-- Control ownership
-- Audit preparation
-- Security metrics
-- Management reporting
-- Continual improvement
+- ISO 27001 alignment and recertification activity;
+- SOC 2 readiness and assurance support;
+- Essential Eight improvement;
+- security policy and governance development;
+- identity and access controls;
+- endpoint and network security;
+- information protection and data governance;
+- threat monitoring and response;
+- third-party security assessment;
+- disaster-recovery and resilience exercises;
+- evidence collection for audit and customer assurance.
 
-The intention was to make the ISMS part of normal technology and risk management rather than something maintained primarily for an annual audit.
+The objective was to make security controls part of normal technology and risk management rather than a collection of activities performed primarily for an audit.
 
----
+## Security Maturity Operating Model
 
-## Security Controls
+```mermaid
+flowchart TB
+    A[Security Governance]
 
-The broader maturation program included work across:
+    A --> B[Risk and Policy]
+    A --> C[Technical Controls]
+    A --> D[Third-Party Risk]
+    A --> E[Resilience]
 
-### Identity
+    B --> F[Evidence and Assurance]
+    C --> F
+    D --> F
+    E --> F
 
-- Role-Based Access Control
-- Least privilege
-- MFA
-- Conditional Access
-- Periodic access reviews
+    F --> G[Client and Audit Assurance]
+    F --> H[Executive and Board Visibility]
 
-### Endpoint & Network
+    G --> I[Improvement Priorities]
+    H --> I
 
-- Endpoint detection and response
-- Network threat monitoring
-- Security configuration
-- Infrastructure security
-
-### Data
-
-- Data classification
-- Data Loss Prevention
-- Data governance
-- Information handling requirements
-
-### Detection & Response
-
-- Threat monitoring
-- Threat intelligence
-- Proactive threat hunting
-- Penetration testing
-- Red-team simulations
-- Incident response validation
-
-### Resilience
-
-- Disaster Recovery simulations
-- Recovery testing
-- Infrastructure resilience
-- RTO improvement
-
----
+    I --> A
+```
 
 ## Security as Business Enablement
 
-One of the more important lessons was that security maturity could create value beyond risk reduction.
+Security assurance increasingly forms part of:
 
-Security assurance increasingly formed part of client due diligence and tender processes.
+- customer due diligence;
+- tender activity;
+- contract and renewal discussions;
+- third-party assurance;
+- broader business development.
 
-This meant cybersecurity could contribute to:
+This means cybersecurity can contribute directly to organisational trust and commercial capability rather than operating only as an internal control function.
 
-- Client confidence
-- Tender responses
-- Contract renewals
-- Third-party assurance
-- Business development
+## Executive Visibility
 
-Security therefore became part of the organisation's commercial capability rather than simply an internal control function.
+Leadership reporting focused on areas such as:
 
----
+- material risk;
+- security maturity;
+- significant incidents;
+- control effectiveness;
+- resilience;
+- remediation;
+- investment priorities.
 
-## Working With the Business
-
-Security controls need to work in the environment in which people actually operate.
-
-Where possible, I worked with business teams to understand the underlying requirement before determining the control.
-
-That sometimes meant finding a different way to achieve the security outcome rather than simply preventing an activity.
-
-This became an important principle:
-
-> Strong security should reduce unacceptable risk without unnecessarily preventing people from doing their jobs.
-
----
-
-## Executive & Board Visibility
-
-Cybersecurity was reported through regular leadership governance, including monthly ELT engagement and quarterly Board reporting.
-
-The focus was increasingly on:
-
-- Material risk
-- Security maturity
-- Significant incidents
-- Control effectiveness
-- Resilience
-- Remediation
-- Investment priorities
-
-This helped move security reporting away from purely technical activity and toward business risk and decision-making.
-
----
+The objective was to translate technical activity into information that supported business decisions.
 
 ## Outcome
 
-The organisation successfully transitioned its ISO 27001 certification from the 2013 standard to ISO 27001:2022 while continuing to mature security capability across Essential Eight, SOC 2 and broader security practices.
+Security assurance became more structured and repeatable, with clearer evidence of control operation and stronger visibility for leadership and customers.
 
-More importantly, the security program became increasingly connected across:
+The organisation became better positioned to respond to certification, assurance and emerging security requirements without treating every request as a separate exercise.
 
-**Technology + Risk + Data + Resilience + Client Assurance**
+More importantly, security became increasingly connected across:
 
----
+**Technology + Risk + Data + Resilience + Assurance**
 
-## What I Took From It
+## Key Lesson
 
-Cybersecurity maturity is not a destination and it is not defined by the number of security products an organisation owns.
+> The most valuable security programs connect compliance, operational resilience and customer assurance rather than managing them as independent streams.
 
-The most effective programs create a cycle:
+Security maturity is a continuing cycle:
 
 **Understand Risk → Implement Controls → Measure → Test → Learn → Improve**
 
-Frameworks such as ISO 27001 and Essential Eight are extremely useful, but the real value comes from turning them into practical operating disciplines.
-
-That is ultimately what makes security sustainable.
+Frameworks provide structure, but the real value comes from turning them into sustainable operating disciplines.
